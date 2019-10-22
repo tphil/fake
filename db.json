@@ -1,53 +1,51 @@
 {
-  "projects": [
-    {
-      "id": 1,
-      "title": "Project one",
-      "type": "Wordpress",
-      "scalable": 1,
-      "ha": 1,
-      "dr": 0,
-      "waf": 1,
-      "dns": 1
-    }, {
-      "id": 2,
-      "title": "Project two",
-      "type": "Wordpress",
-      "scalable": 1,
-      "ha": 1,
-      "dr": 0,
-      "waf": 1,
-      "dns": 1
-    }, {
-      "id": 3,
-      "title": "Project three",
-      "type": "Wordpress",
-      "scalable": 1,
-      "ha": 1,
-      "dr": 0,
-      "waf": 1,
-      "dns": 1
-    }, {
-      "id": 4,
-      "title": "Project four",
-      "type": "Wordpress",
-      "scalable": 1,
-      "ha": 1,
-      "dr": 0,
-      "waf": 1,
-      "dns": 1
-    }, {
-      "id": 5,
-      "title": "Project five",
-      "type": "Wordpress",
-      "scalable": 1,
-      "ha": 1,
-      "dr": 0,
-      "waf": 1,
-      "dns": 1
-    }
-  ]
-  "profile": {
-    "name": "typicode"
-  }
+	"projects": [{
+		"id": 1,
+		"title": "Project one",
+		"type": "Wordpress",
+		"scalable": 1,
+		"ha": 1,
+		"dr": 0,
+		"waf": 1,
+		"dns": 1
+	}, {
+		"id": 2,
+		"title": "Project two",
+		"type": "Wordpress",
+		"scalable": 1,
+		"ha": 1,
+		"dr": 0,
+		"waf": 1,
+		"dns": 1
+	}, {
+		"id": 3,
+		"title": "Project three",
+		"type": "Wordpress",
+		"scalable": 1,
+		"ha": 1,
+		"dr": 0,
+		"waf": 1,
+		"dns": 1
+	}, {
+		"id": 4,
+		"title": "Project four",
+		"type": "Wordpress",
+		"scalable": 1,
+		"ha": 1,
+		"dr": 0,
+		"waf": 1,
+		"dns": 1
+	}, {
+		"id": 5,
+		"title": "Project five",
+		"type": "Wordpress",
+		"scalable": 1,
+		"ha": 1,
+		"dr": 0,
+		"waf": 1,
+		"dns": 1
+	}],
+	"profile": {
+		"name": "typicode"
+	}
 }
